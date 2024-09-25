@@ -14,5 +14,5 @@ Para modificar un valor decimal y expresarlo en binario se siguen los siguientes
 ---
 
 Y ya estaria! :+1:
-![Ejemplo:]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.convertbinary.com%2Fdecimal-a-binario%2F&psig=AOvVaw1kpyyrPrZ7oBbVehQBrren&ust=1727366915649000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC_way93ogDFQAAAAAdAAAAABAE)
+![Ejemplo:](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.convertbinary.com%2Fdecimal-a-binario%2F&psig=AOvVaw1kpyyrPrZ7oBbVehQBrren&ust=1727366915649000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC_way93ogDFQAAAAAdAAAAABAE)
 
